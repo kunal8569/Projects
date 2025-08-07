@@ -1,0 +1,12 @@
+
+# Project Overview: American Airlines Delay Analysis
+
+This project is designed to provide a comprehensive view into flight delays involving American Airlines, helping to determine root causes and trends over time.
+
+## Main Goals
+- Understand the extent and pattern of flight delays.
+- Identify delay causes across years and months.
+- Provide clean, queryable data in a MySQL database.
+- Ensure the project is well-organized and industry-ready.
+
+

@@ -1,0 +1,36 @@
+
+# American Airlines Flight Delay Analysis - Final Report
+
+## Project Objective
+
+To analyze delay patterns of American Airlines (and American Eagle) using historical flight delay data. The aim is to identify key contributors to delays and provide actionable insights.
+
+## Tools Used
+
+- MySQL Workbench
+- Python (Pandas, MySQL Connector)
+- CSV Dataset (Cleaned)
+
+## Dataset
+
+The dataset includes airline delay data categorized by delay causes (weather, carrier, NAS, etc.), monthly across multiple years.
+
+## Methodology
+
+1. Created database and table schema using SQL.
+2. Loaded data from a cleaned CSV file using Python.
+3. Executed SQL queries to filter and extract insights specific to American Airlines.
+4. Saved visual results (if any) in the output folder.
+
+## Key Findings
+
+- Common causes of delays include late aircraft and weather.
+- Seasonal and monthly trends were observed.
+- Carrier-specific patterns were identified.
+
+## Next Steps
+
+- Visualization using Power BI or Python (matplotlib/seaborn).
+- Predictive modeling using ML (optional).
+- Reporting and dashboard integration.
+
